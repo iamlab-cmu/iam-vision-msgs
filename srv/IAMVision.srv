@@ -6,7 +6,7 @@ string[] object_names
 sensor_msgs/Image image
 sensor_msgs/Image masks
 iam_common_msgs/BBox[] bounding_boxes
-iam_common_msgs/Int32Point2D points
+iam_common_msgs/Int32Point2D[] points
 ---
 uint8 response_type
 bool request_success
